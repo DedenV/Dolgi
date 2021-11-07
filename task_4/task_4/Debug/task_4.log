@@ -1,0 +1,11 @@
+﻿  task_4.cpp
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(30,68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(55,63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(110,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(136,67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(146,67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(251,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\c++\task_4\task_4\task_4.cpp(267,73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task_4.vcxproj -> C:\Users\User\Desktop\c++\task_4\Debug\task_4.exe
