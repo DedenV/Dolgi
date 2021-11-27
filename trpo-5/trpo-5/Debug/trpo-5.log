@@ -1,0 +1,5 @@
+﻿  trpo-5.cpp
+C:\Users\User\Desktop\c++\trpo-5\trpo-5\trpo-5.cpp(17,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\trpo-5\trpo-5\trpo-5.cpp(39,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\trpo-5\trpo-5\trpo-5.cpp(96,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  trpo-5.vcxproj -> C:\Users\User\Desktop\c++\trpo-5\Debug\trpo-5.exe
