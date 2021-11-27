@@ -1,0 +1,4 @@
+﻿  classes!.cpp
+C:\Users\User\Desktop\c++\classes!\classes!\classes!.cpp(194,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\c++\classes!\classes!\classes!.cpp(106): warning C4715: FindPopularName: значение возвращается не при всех путях выполнения
+  classes!.vcxproj -> C:\Users\User\Desktop\c++\classes!\Debug\classes!.exe
